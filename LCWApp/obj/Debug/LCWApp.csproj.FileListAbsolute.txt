@@ -1,0 +1,10 @@
+C:\Users\batuh\source\repos\LCWApp\LCWApp\bin\Debug\LCWApp.exe.config
+C:\Users\batuh\source\repos\LCWApp\LCWApp\bin\Debug\LCWApp.exe
+C:\Users\batuh\source\repos\LCWApp\LCWApp\bin\Debug\LCWApp.pdb
+C:\Users\batuh\source\repos\LCWApp\LCWApp\bin\Debug\WebDriver.dll
+C:\Users\batuh\source\repos\LCWApp\LCWApp\bin\Debug\WebDriver.Support.dll
+C:\Users\batuh\source\repos\LCWApp\LCWApp\obj\Debug\LCWApp.csprojAssemblyReference.cache
+C:\Users\batuh\source\repos\LCWApp\LCWApp\obj\Debug\LCWApp.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\LCWApp\LCWApp\obj\Debug\LCWApp.csproj.CopyComplete
+C:\Users\batuh\source\repos\LCWApp\LCWApp\obj\Debug\LCWApp.exe
+C:\Users\batuh\source\repos\LCWApp\LCWApp\obj\Debug\LCWApp.pdb
